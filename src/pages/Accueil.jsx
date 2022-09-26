@@ -12,9 +12,9 @@ const LocationContainer = styled.div`
 	flex-wrap: wrap;
 	justify-content: space-around;
 	background-color: #f6f6f6;
-	padding: 20px 0;
+	padding: 20px 10px;
 	border-radius: 25px;
-	margin: 40px 7%;
+	margin: 40px 6%;
 	width: 86%;
 
 	@media screen and (max-width: 780px) {
@@ -37,14 +37,14 @@ function Accueil() {
 
 	return isLoading ? (
 		<React.Fragment>
-			<Banner page="Accueil" texte="Chez vous, partout et ailleurs" />
+			<Banner page="Accueil" texte="Chez nous, Chez vous" />
 			<LoaderWrapper>
 				<Loader />
 			</LoaderWrapper>
 		</React.Fragment>
 	) : (
 		<React.Fragment>
-			<Banner page="Accueil" texte="Chez vous, partout et ailleurs" />
+			<Banner page="Accueil" texte="Chez nous, Chez vous" />
 			<LocationContainer>
 				{locationList.map((location) => (
 					<Card key={location.id} id={location.id} title={location.title} cover={location.cover} />

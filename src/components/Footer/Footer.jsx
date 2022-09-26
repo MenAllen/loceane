@@ -8,8 +8,8 @@ import "./Footer.css";
 function Footer() {
 	return (
 		<footer>
-			<img src={whitelogo} alt="logo blanc du site Kasa" />
-			<p> © 2020 Kasa. All rights reserved</p>
+			<p><strong>L'Océane</strong></p>
+			<p> © 2020. All rights reserved</p>
 		</footer>
 	);
 }

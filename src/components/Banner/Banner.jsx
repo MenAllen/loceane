@@ -1,5 +1,5 @@
-import bannerAccueil from "../../assets/accueil.jpg";
-import bannerApropos from "../../assets/apropos.jpg";
+import bannerAccueil from "../../assets/bannerLaTrinité.jpg";
+import bannerApropos from "../../assets/bannerApropos.jpg";
 import "./Banner.css";
 
 /**
