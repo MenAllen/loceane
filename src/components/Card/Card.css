@@ -1,17 +1,17 @@
 figure {
-	display: block;
+	display: flex;
+	justify-content: center;
 	margin: 10px;
 	padding: 0;
-/*	max-width: 340px;
-	min-width: 335px;*/
 	position: relative;
+	
 }
 
 figcaption {
 	position: absolute;
-	bottom: 1%;
-	left: 0;
-	width: 91%;
+	bottom: 0%;
+	left: 4%;
+	width: 90%;
 	font-size: 36px;
 	font-weight: 500;
 	color: white;
@@ -24,10 +24,11 @@ figcaption {
 }
 
 figure img {
-	width: 100%;
+	width: 92%;
 	height: auto;
 	object-fit: cover;
 	border-radius: 10px;
+	text-align: center;
 }
 
 a {
