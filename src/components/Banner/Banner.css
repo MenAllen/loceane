@@ -37,8 +37,8 @@
 @media screen and (max-width: 780px) {
 	.imgAccueil,
 	.imgApropos {
-		min-height: 111px;
-		height: 111px;
+		min-height: 223px;
+		height: 223px;
 		border-radius: 10px;
 		width: 90%;
 	}

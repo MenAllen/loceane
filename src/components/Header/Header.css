@@ -22,7 +22,7 @@ header a {
 header nav a {
 	text-decoration: none;
 	color: #ff6060;
-	font-size: 24px;
+	font-size: 48px;
 	font-weight: 500;
 	padding: 0 0 0 30px;
 }
@@ -32,7 +32,7 @@ header nav [aria-current] {
 }
 
 .logo {
-	width: 210px;
+	width: 400px;
 	height: auto;
 }
 
