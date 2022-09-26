@@ -1,4 +1,3 @@
-import whitelogo from "../../assets/whitelogo.svg";
 import "./Footer.css";
 
 /**
