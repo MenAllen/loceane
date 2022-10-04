@@ -37,7 +37,7 @@ header nav [aria-current] {
 }
 
 /* =========================================================================================== */
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 1000px) {
 	header {
 		margin: 20px 7%;
 	}
