@@ -23,21 +23,21 @@ const AproposContainer = styled.div`
  */
 function Apropos() {
 	const contenuFiabilite =
-		"L'Océane garantit une fiabilité totale. Les photos sont conformes aux logements, et toutes les informations sont régulièrement vérifiées par nos équipes.";
+		"La Trinité sur Mer était un port de pêche et de cabotage à l'origine. Dans les années 60, la victoire de Tabarly dans la transat anglaise de 1964 avec le Pend Ducik 2 construit à la trinité, a lancé le développement de la plaisance et fait de ce port l'un des plus célèbres de la côte atlantique, avec la baie de Quiberon comme aire de jeu, bien protégé des tempêtes hivernales par la presqu'île de Quiberon. Aujourd'hui, le bourg, qui compte plus de 1600 habitants à l'année, est animé en permanence grâce à la présence de bateaux célèbres (IDEC à Joyon, Sodebo à Coville,Spindrift à Richard,..) et aux entraînements d'hiver d'Octobre à Pâques.";
 	const contenuRespect =
-		"La bienveillance fait partie des valeurs fondatrices de L'Océane. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme.";
-	const contenuService = "Nos équipes se tiennent à votre disposition pour vous fournir une expérience parfaite. N'hésitez pas à nous contacter si vous avez la moindre question.";
+		"A l'Océane, le chemin côtier (GR34 tout de même !) est à la porte du jardin et vous amène tout de suite aux plages. Si la mer est trop basse pour se baigner, on peut attendre la marée haute en taquinant la palourde.... On peut aussi décider de continuer la marche par la pointe de Kerbihan vers Carnac et pourquoi pas jusqu'à Quiberon, ou bien retouner vers St Philibert puis Locmariaquer vers le golfe du Morbihan.";
+	const contenuService = "A la trinité, on peut louer un petit bateau électrique, remonter la rivière de Crach derrière le pont et piquer niquer près du Château (abandonné) de Kervihan avant de rentrer tranquillement. On peut faire de même en kayak, ou en paddle, mais ce sera un peu plus long (compter 3h aller et retour). On peut ausi faire du paddle ou de la planche à voile devant la maison, partir vers les îles (Belle Ile, Houat, Hoedic) depuis Quiberon, ou vers le golfe depuis Locmariaquer (les îles d'Arz et l'île aux moines sont particulièrement attirantes hors saison).";
 	const contenuSecurite =
-		"La sécurité est la priorité de L'Océane. Aussi bien pour nos hôtes que pour les voyageurs, chaque logement correspond aux critères de sécurité établis par nos services. En laissant une note aussi bien à l'hôte qu'au locataire, cela permet à nos équipes de vérifier que les standards sont bien respectés. Nous organisons également des ateliers sur la sécurité domestique pour nos hôtes.";
+		"Saviez-vous que certains experts estiment que Locmariaquer était le (ou un des) centre(s) de la civilisation celtique ? Le nombre de mégalithes aux environs (Carnac, La Trinité, Plouharnel, Erdeven) est impressionnant, et souvent dirigés vers Locmariaquer et sa table des Marchands. Visitez le musée de Carnac pour en savoir plus ! Enfin, n'oubliez pas la visite du cairn de gavrinis (surnommée la \"chapelle sixtine\" du néolithique !), une ile du golfe joignable par bateau depuis Larmor Baden, bol d'air et découverte assurés.";
 
 	return (
 		<React.Fragment>
 			<Banner page="Apropos" texte="" />
 			<AproposContainer>
-				<Dropdown page="apropos" titre="Fiabilité" contenu={contenuFiabilite} />
-				<Dropdown page="apropos" titre="Respect" contenu={contenuRespect} />
-				<Dropdown page="apropos" titre="Service" contenu={contenuService} />
-				<Dropdown page="apropos" titre="Sécurité" contenu={contenuSecurite} />
+				<Dropdown page="apropos" titre="Le village" contenu={contenuFiabilite} />
+				<Dropdown page="apropos" titre="Le chemin côtier" contenu={contenuRespect} />
+				<Dropdown page="apropos" titre="La mer" contenu={contenuService} />
+				<Dropdown page="apropos" titre="Le patrimoine" contenu={contenuSecurite} />
 			</AproposContainer>
 		</React.Fragment>
 	);

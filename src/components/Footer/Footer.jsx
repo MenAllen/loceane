@@ -8,7 +8,7 @@ function Footer() {
 	return (
 		<footer>
 			<p><strong>L'Océane</strong></p>
-			<p> © 2020. All rights reserved</p>
+			<p> © 2022. All rights reserved</p>
 		</footer>
 	);
 }

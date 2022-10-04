@@ -44,7 +44,6 @@ function Accueil() {
 		</React.Fragment>
 	) : (
 		<React.Fragment>
-			<Banner page="Accueil" texte="Chez nous, Chez vous" />
 			<LocationContainer>
 				{locationList.map((location) => (
 					<Card key={location.id} id={location.id} title={location.title} cover={location.cover} />

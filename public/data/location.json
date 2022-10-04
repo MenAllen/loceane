@@ -2,12 +2,12 @@
 	"locationData": [
 		{
 			"id": "c67ab8a7",
-			"title": "Maison bord de mer",
-			"cover": "./loceane.jpeg",
+			"title": "Location bord de mer",
+			"cover": "./bannerLaTrinité.jpg",
 			"pictures": [
+				"../loceane.jpeg",
 				"../loceane1.jpg",
 				"../loceane2.jpg",
-				"../loceane3.jpg",
 				"../loceane4.jpg",
 				"../loceane5.jpg",
 				"../loceane6.jpg",
@@ -33,15 +33,15 @@
 				"../loceane26.jpg",
 				"../loceane27.jpg"
 			],
-			"description": "Votre maison loin de chez vous. Que vous veniez de l'autre bout du monde, ou juste de quelques stations de TGV, vous vous sentirez chez vous dans notre maison. Elle dispose de 5 chambres double, 2 salles de bains, 3 WC",
+			"description": "Votre maison loin de chez vous. Que vous veniez de l'autre bout du monde, ou juste de quelques stations de TGV, vous vous sentirez chez vous dans notre maison. Elle dispose de 5 chambres double, 2 salles de bains, une salle de jeux avec billard, un grand jardin et un garage pour 3 voitures",
 			"host": {
 				"name": "Nathalie Jean",
 				"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 			},
 			"rating": "5",
 			"location": "Bretagne, Morbihan - La Trinité sur mer",
-			"equipments": ["Équipements de base", "Micro-Ondes", "Machine à laver", "Frigo", "WIFI", "TV"],
-			"tags": ["Accès direct Chemin des douaniers", "Accès direct Plage", "Vue Mer"]
+			"equipments": ["Équipements de base", "Cuisine équipée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Planche à voile", "Salon de jardin"],
+			"tags": ["Accès direct Chemin côtier", "Accès direct Plage", "Vue Mer"]
 		}
 	]
 }
