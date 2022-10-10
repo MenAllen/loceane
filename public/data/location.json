@@ -2,7 +2,7 @@
 	"locationData": [
 		{
 			"id": "c67ab8a7",
-			"title": "Location bord de mer",
+			"title": "Location bord de mer, emplacement exceptionnel",
 			"cover": "./bannerLaTrinité.jpg",
 			"pictures": [
 				"../loceane.jpeg",
@@ -40,7 +40,7 @@
 			},
 			"rating": "5",
 			"location": "Bretagne, Morbihan - La Trinité sur mer",
-			"equipments": ["Équipements de base", "Cuisine équipée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Planche à voile", "Salon de jardin"],
+			"equipments": ["Équipements de base", "Cuisine équipée", "Cheminée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Planche à voile", "Salon de jardin"],
 			"tags": ["Accès direct Chemin côtier", "Accès direct Plage", "Vue Mer"]
 		}
 	]
