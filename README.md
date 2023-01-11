@@ -1,10 +1,10 @@
-# Base de code du projet P11 - Parcours Front-end - React
-Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans maintenant. Le site de l'agence Kasa a été codé il y a maintenant plus de 10 ans en ASP.NET avec un code legacy important. Une refonte totale est décidée pour passer à une stack complète en JavaScript avec React côté Front-end.Il s'agit donc, sur la base des maquettes desktop et mobile fournies, de réaliser une app React Kasa qui présente:
- - Une page d'accueil présentant une liste de 20 logements. Chaque logement est cliquable et peut être vu de façon détaillée
- - Une page A propos décrivant les valeurs de l'agence
+# Base de code du projet de site de location saisonnière
+Il est demandé un site vitrine de présentation de bien immobilier pour location saisonnière:
+ - Une page d'accueil présentant une liste de 20 logements (actuellement un seul). Chaque logement est cliquable et peut être vu de façon détaillée
+ - Une page A propos décrivant l'environnement des (du) bien(s)
 
 ## Installation
- - git clone https://github.com/MenAllen/PhilippeJoubard_P11_032022.git
+ - git clone https://github.com/MenAllen/loceane.git
  - npm install pour installer l'application
  - npm start pour lancer l'application qui s'affiche sous localhost:3000
 
@@ -12,8 +12,8 @@ Kasa est dans le métier de la location d’appartements entre particuliers depu
 Une page netlify est disponible sous : https://stellular-marshmallow-ca39e0.netlify.app/
 
 ## Inputs
- - Maquettes FIGMA Desktop et Mobile
- - Tableau JSON de 20 appartements avec description photos, points forts et rating
+ - Maquette FIGMA Desktop
+ - Tableau JSON pour un appartement avec description photos, points forts et rating
 
 ## Code
  - Main App: src\index.js qui inclue le routage vers les différentes pages
