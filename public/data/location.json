@@ -8,6 +8,7 @@
 				"../loceane.jpeg",
 				"../loceane2.jpg",
 				"../loceane23.jpg",
+				"../loceane50.jpg",
 				"../loceane25.jpg",
 				"../loceane31.jpeg",
 				"../loceane33.jpeg",
@@ -28,7 +29,7 @@
 			},
 			"rating": "5",
 			"location": "Bretagne, Morbihan - La Trinité sur mer",
-			"equipments": ["Équipements de base", "Cuisine équipée", "Cheminée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Planche à voile", "Salon de jardin"],
+			"equipments": ["Équipements de base", "Cuisine équipée", "Cheminée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Salon de jardin"],
 			"tags": ["Accès direct Chemin côtier", "Accès direct Plage", "Vue Mer"]
 		}
 	]
