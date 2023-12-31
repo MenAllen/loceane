@@ -10,6 +10,7 @@
 
 .picture {
 	width: 100%;
+	height: auto;
 	max-height: 800px;
 	border-radius: 25px;
 	object-fit: cover;
