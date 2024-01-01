@@ -6,10 +6,9 @@
 			"cover": "./bannerLaTrinité.jpg",
 			"pictures": [
 				"../loceane.jpeg",
-				"../maison-1.jpg",
-				"../loceane31.jpeg",
+				"../maison-1bis.png",
+				"../loceane31bis.jpg",
 				"../salon-1.jpg",
-				"../salon-2.jpg",
 				"../salon-3.jpg",
 				"../sam-2.jpg",
 				"../cuisine-1.jpg",
@@ -23,19 +22,18 @@
 				"../sdj-2.jpg",
 				"../capture.jpg",
 				"../loceane23.jpg",
-				"../vue2.jpg",
 				"../loceane33.jpeg",
 				"../loceane35.jpeg",
 				"../loceane27.jpg"
 			],
-			"description": "Vous vous sentirez chez vous dans notre maison. Elle dispose de 5 chambres double, 2 salles de bains, une salle de jeux avec billard, un grand jardin et un garage pour 3 voitures",
+			"description": "Vous vous sentirez chez vous dans notre maison. Elle dispose de 5 chambres double, 3 salles de bains, une salle de jeux avec billard, un grand jardin et un garage pour 3 voitures",
 			"host": {
 				"name": "",
 				"picture": ""
 			},
 			"rating": "5",
 			"location": "Bretagne, Morbihan - La Trinité sur mer",
-			"equipments": ["Équipements de base", "Cuisine équipée", "Cheminée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Salon de jardin"],
+			"equipments": ["Équipements de base", "Cuisine équipée", "Cheminée", "TV", "WIFI", "Micro-Ondes", "Machine à laver", "Lave vaisselle", "Salon de jardin"],
 			"tags": ["Accès direct Chemin côtier", "Accès direct Plage", "Vue Mer"]
 		}
 	]
